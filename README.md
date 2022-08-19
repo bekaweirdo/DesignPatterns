@@ -14,3 +14,6 @@ Mastering these design patterns will allow you to manage your objects better, ad
 
 ### Singleton
 
+There are a couple of requirements for the Singleton design pattern:
+- We should have exactly one instance in our system.
+- This instance should be accessible from any part of our system.
