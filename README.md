@@ -7,8 +7,8 @@ Factory Method Abstract Factory Builder Prototype
 Mastering these design patterns will allow you to manage your objects better, adapt well to changes, and write code that is easy to maintain.
 
 ##
-Singleton
-Factory Method 
-Abstract Factory 
-Builder
-Prototype
+- Singleton
+- Factory Method 
+- Abstract Factory 
+- Builder
+- Prototype
