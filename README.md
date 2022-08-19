@@ -17,3 +17,6 @@ Mastering these design patterns will allow you to manage your objects better, ad
 There are a couple of requirements for the Singleton design pattern:
 - We should have exactly one instance in our system.
 - This instance should be accessible from any part of our system.
+
+### Factory Method
+A Factory Pattern or Factory Method Pattern says that just define an interface or abstract class for creating an object but let the subclasses decide which class to instantiate.
