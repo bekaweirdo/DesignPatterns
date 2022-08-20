@@ -1,5 +1,6 @@
 package creational
 
+import creational.builder.MailBuilder
 import creational.factory_method.Country
 import creational.factory_method.FactoryMethod
 import creational.singleton.Singleton
@@ -16,4 +17,5 @@ fun main(){
 
     StaticFactoryMethod().property("port: 8080")
     StaticFactoryMethod().property("environment: production")
+    val email = MailBuilder(listOf("Hello@hello.com")).builder()
 }
